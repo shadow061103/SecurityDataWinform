@@ -1,0 +1,13 @@
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\bin\Debug\SecuritiesData.exe.config
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\bin\Debug\SecuritiesData.exe
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\bin\Debug\SecuritiesData.pdb
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\obj\Debug\SecuritiesData.csprojResolveAssemblyReference.cache
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\obj\Debug\SecuritiesData.Form1.resources
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\obj\Debug\SecuritiesData.Properties.Resources.resources
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\obj\Debug\SecuritiesData.csproj.GenerateResource.Cache
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\obj\Debug\SecuritiesData.exe
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\obj\Debug\SecuritiesData.pdb
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\bin\Debug\EPPlus.dll
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\bin\Debug\Newtonsoft.Json.dll
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\bin\Debug\EPPlus.xml
+D:\VisualStudio開發專案\SecuritiesData\SecuritiesData\bin\Debug\Newtonsoft.Json.xml
